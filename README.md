@@ -1,4 +1,17 @@
-### Hi there 👋
+### MY PROFILE : Student and the future career 😄
+
+- Computer Science : Bangkok University : Sophomore 
+- Focus on Learning : iOS Development 
+- Solid Programming Language : Swift , Python 
+- Communication Language : English , Thai 
+
+
+
+
+
+
+
+
 
 <!--
 **pankornsupercool/pankornsupercool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
