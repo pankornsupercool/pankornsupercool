@@ -1,9 +1,6 @@
-### MY PROFILE : Student and the future career 😄
+### MY PROFILE : ##########
 
-- Computer Science : Bangkok University : Sophomore 
-- Focus on Learning : iOS Development 
-- Solid Programming Language : Swift , Python 
-- Communication Language : English , Thai 
+
 
 
 
