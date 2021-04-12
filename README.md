@@ -1,6 +1,6 @@
 PANKORN WANGSAKUN
-https://pankornsupercool.github.io/Portfolio-implement/
-Just practice in designing
+Most focusing on : Vue.js
+Secondary focus : .NET
 
 
 
